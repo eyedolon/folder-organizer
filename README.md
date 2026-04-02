@@ -11,7 +11,7 @@ A simple Python script to organize files and folders into categorized directorie
 
 ## Limitations
 
-* No protection against overwriting files. If a file with the same name exists in the destination folder, it may be overwritten or cause an error depending on the system.
+* **No protection against overwriting files.** If a file with the same name exists in the destination folder, it may be overwritten or cause an error depending on the system.
 * File extension checks are case-sensitive (e.g., `.PDF` may not be recognized as `.pdf`)
 * No undo functionality
 
