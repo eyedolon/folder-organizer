@@ -1,6 +1,7 @@
 # Folder Organizer CLI Tool
 
 A simple Python script to organize files and folders into categorized directories.
+(Note: this was made for learning purposes)
 
 ## Features
 
